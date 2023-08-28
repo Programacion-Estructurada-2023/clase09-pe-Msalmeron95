@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Msalmeron\\OneDrive\\Studies\\El Salvador\\Univo\\2nd Semester\\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\\Projects\\C#\\clase09-pe-Msalmeron95\\clase09-pe-Msalmeron95.csproj",
+      "projectUniqueName": "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\clase09-pe-Msalmeron95\\clase09-pe-Msalmeron95.csproj",
       "projectName": "clase09-pe-Msalmeron95",
-      "projectPath": "c:\\Users\\Msalmeron\\OneDrive\\Studies\\El Salvador\\Univo\\2nd Semester\\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\\Projects\\C#\\clase09-pe-Msalmeron95\\clase09-pe-Msalmeron95.csproj",
+      "projectPath": "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\clase09-pe-Msalmeron95\\clase09-pe-Msalmeron95.csproj",
       "packagesPath": "C:\\Users\\Msalmeron\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Msalmeron\\OneDrive\\Studies\\El Salvador\\Univo\\2nd Semester\\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\\Projects\\C#\\clase09-pe-Msalmeron95\\obj\\",
+      "outputPath": "c:\\Users\\Msalmeron\\github-classroom\\Programacion-Estructurada-2023\\clase09-pe-Msalmeron95\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

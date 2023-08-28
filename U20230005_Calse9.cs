@@ -7,35 +7,26 @@ namespace MyApp// Note: actual namespace depends on the project name.
         static void Main(string[] args)
         {
             //Ejercicios con estructura selectiva IF - ELSE
+            Console.WriteLine("\n\n---- PROMGRAMA QUE DETERMINA SI OBTUBO BUENA A EXCELENTE CALIFICACION ----");
 
-            //Programa que determina si es mayor de edad.
-            Console.WriteLine("\n\n---- PROMGRAMA QUE DETERMINA SI ES MAYOR ----");
+            Console.WriteLine("\nIngrese su nota:");
+            double grade = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("\nIngrese tu edad: ");
-            int edad = Convert.ToInt16(Console.ReadLine());
-
-            if (edad >= 18 )
+            if (grade >= 9.5)
             {
-                Console.WriteLine("Tu edad es " + edad + "ya eres mayor de edad ");
-
+                Console.WriteLine("La calificación obtenida es Excelente.");
+            }
+            else if (grade >= 8.5)
+            {
+                Console.WriteLine("La calificación obtenida es Muy Buena.");
+            }
+            else if (grade >= 7.0)
+            {
+                Console.WriteLine("La calificación obtenida es Buena.");
             }
             else
             {
-                Console.WriteLine("Tu edad es " + edad + " eres menor de edad ");
-            }
-
-
-            Console.WriteLine("\n\n---- PROMGRAMA QUE DETERMINA SI ES MAYOR ----");
-            Console.WriteLine("\nIngresa un numero: ");
-            int numero = Convert.ToInt16(Console.ReadLine());
-
-            if (numero % 2 == 0)
-            {
-                Console.WriteLine("\nEl numero " + numero + " es par.");
-            }
-            else
-            {
-                Console.WriteLine("\nEl numero " + numero + " es impar.");
+                Console.WriteLine("La calificación obtenida es Deficiente.");
             }
 
             Console.ReadLine();
